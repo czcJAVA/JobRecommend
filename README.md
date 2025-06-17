@@ -10,29 +10,37 @@
    - 职位列表展示
    - 职位详情查看
    - 筛选和搜索功能
-
 3. **职位推荐系统**：
    - 基于物品的协同过滤推荐算法
    - 根据用户投递历史和职位意向进行个性化推荐
-   - 
 4. **数据可视化分析**：
    - 薪资统计分析（饼图）
    - 教育水平分析（条形图）
    - 数据看板和统计信息
-
 5. **简历投递管理**：
    - 职位投递功能
    - 已投递列表管理
    - 投递状态跟踪
-
 6. **爬虫系统**：
    - 集成了招聘信息爬虫
    - 爬虫状态监控和管理界面
-
 7. **后台管理系统**：
    - 使用SimpleUI美化的Django admin管理界面
    - 招聘信息和用户管理
-
+     
+## 运行效果展示
+![contents](picture/picture1.png)
+![contents](picture/picture2.png)
+![contents](picture/picture3.png)
+![contents](picture/picture4.png)
+![contents](picture/picture5.png)
+![contents](picture/picture6.png)
+![contents](picture/picture7.png)
+![contents](picture/picture8.png)
+![contents](picture/picture9.png)
+![contents](picture/picture10.png)
+![contents](picture/picture11.png)
+![contents](picture/picture12.png)
 ## 技术栈
 
 1. **后端框架**：
