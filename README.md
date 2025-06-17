@@ -29,16 +29,23 @@
    - 招聘信息和用户管理
      
 ## 运行效果展示
+1.可视化大屏展示
 ![contents](picture/picture1.png)
+2.薪资排行分析
 ![contents](picture/picture2.png)
+3.数据爬虫（部分招聘已经做反爬机制）
 ![contents](picture/picture3.png)
+4.可视化图形分析
 ![contents](picture/picture4.png)
 ![contents](picture/picture5.png)
 ![contents](picture/picture6.png)
+5.求职意向，求职推荐，求职列表
 ![contents](picture/picture7.png)
 ![contents](picture/picture8.png)
 ![contents](picture/picture9.png)
+6.个人信息修改
 ![contents](picture/picture10.png)
+7登录注册
 ![contents](picture/picture11.png)
 ![contents](picture/picture12.png)
 ## 技术栈
@@ -56,22 +63,16 @@
 3. **数据处理与分析**：
    - 协同过滤推荐算法
    - NumPy（数据处理）
-
 4. **爬虫技术**：
    - Selenium（用于动态网页爬取）
    - Chrome驱动（chromedriver.exe）
-
 5. **系统监控**：
    - psutil（系统资源监控）
-
 6. **可视化技术**：
    - 图表可视化（可能使用ECharts或其他JS图表库）
-
-
 ## 部署环境
-
 1. **开发环境**：
-   - Python 3.9.10
+   - Python 3.9.10.11
    - Windows系统（基于文件路径判断）
    - 虚拟环境（venv）
 
@@ -96,5 +97,3 @@
 4. **美化的管理界面**：使用SimpleUI优化了Django admin界面
 
 5. **响应式设计**：前端采用现代UI框架，支持多设备访问
-
-这个项目是一个完整的招聘信息推荐系统，包含了从数据采集、存储、分析到展示的全流程功能，适合用于就业分析和职位推荐场景。
